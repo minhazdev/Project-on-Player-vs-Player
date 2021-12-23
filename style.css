@@ -1,0 +1,20 @@
+body{
+    color: white;
+    background-color: steelblue;
+    text-align: center;
+}
+
+form {
+    display: inline;
+  }
+  .p1Btn {
+      color: black;
+  }
+  .p2Btn {
+      color: green;
+  }
+
+  .reset {
+      color:red;
+  }
+
